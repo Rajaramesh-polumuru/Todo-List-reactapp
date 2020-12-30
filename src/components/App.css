@@ -11,7 +11,9 @@
 body {
   background-image: url(https://images.pexels.com/photos/4238524/pexels-photo-4238524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
   background-repeat: no-repeat;
-  background-attachment: scroll;
+  background-position: center;
+  background-size: auto;
+  background-attachment: fixed;
 }
 .todo-app {
   display: flex;
